@@ -1987,7 +1987,7 @@ input::-moz-focus-inner {
   width: 100%;
   height: 100%;
   opacity: .2;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0) 100%);
+  background: linear-gradient(to bottom right,#002f4b,#dc4225 100%);
 }
 
 .no-js .s-home {
@@ -2005,6 +2005,7 @@ input::-moz-focus-inner {
   padding-bottom: 15.6rem;
   overflow: hidden;
   position: relative;
+  background-image: url("https://static.tildacdn.com/tild3538-3664-4666-b539-383365343238/Machine_learning_in_dentistry.png")
 }
 
 .home-content h1 {
@@ -2019,6 +2020,7 @@ input::-moz-focus-inner {
   padding-right: 28rem;
   position: relative;
   max-width: 1400px;
+
 }
 
 .home-content__button {
@@ -2324,7 +2326,7 @@ html.no-csstransitions .home-content__main {
   }
 
   .home-content__main {
-    padding-right: 6rem;
+    /*padding-right: 6rem;*/
   }
 
   .home-content__button,
