@@ -2544,6 +2544,9 @@ html.no-csstransitions .home-content__main {
   margin-bottom: 3rem;
 }
 
+.picimg {
+ background-color: #F2F2F2;
+}
 .about-process .item-process__header::before {
   content: "";
   display: block;
